@@ -1,0 +1,25 @@
+Partlist
+
+Exported from FuzzFace.sch at 2018-08-13 23:11:18
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library    Sheet
+
+C1       10nF           C-EU050-024X044 C050-024X044 rcl        1
+C2       10nF           C-EU050-024X044 C050-024X044 rcl        1
+C3       22uF           CPOL-EUE5-5     E5-5         rcl        1
+JP1      INPUT          PINHD-1X1       1X01         pinhead    1
+JP2      OUTPUT         PINHD-1X1       1X01         pinhead    1
+JP3      +9V            PINHD-1X1       1X01         pinhead    1
+JP4      GND            PINHD-1X1       1X01         pinhead    1
+Q1       2N3904         -NPN-TO92-EBC   TO92-EBC     transistor 1
+Q2       2N3904         -NPN-TO92-EBC   TO92-EBC     transistor 1
+R1       100k           R-EU_0207/10    0207/10      rcl        1
+R2       10k            R-EU_0207/10    0207/10      rcl        1
+R3       100k           R-EU_0207/10    0207/10      rcl        1
+R4       100k           3RP/1610N       3RP/1610N    pot        1
+R5       10k            TRIM_EU-CA6V    CA6V         pot        1
+R6       5k             3RP/1610N       3RP/1610N    pot        1
